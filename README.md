@@ -1,6 +1,6 @@
 # clubeeo-js
 
-Clubeeo API - token-gating automation
+Clubeeo API - NFT token-gating automation
 
 https://clubeeo.com 
 
